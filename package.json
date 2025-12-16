@@ -1,0 +1,25 @@
+{
+  "name": "typeofdev-theme",
+  "displayName": "TypeOfDev Themes",
+  "description": "A collection of themes: Admin Type (btop style) and Hacker Type (neon/black).",
+  "version": "1.0.0",
+  "publisher": "your-name",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Admin Type",
+        "uiTheme": "vs-dark",
+        "path": "./themes/admin-type.json"
+      },
+      {
+        "label": "Hacker Type",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hacker-type.json"
+      }
+    ]
+  }
+}
