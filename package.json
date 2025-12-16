@@ -2,7 +2,7 @@
   "name": "typeofdev-theme",
   "displayName": "TypeOfDev Themes",
   "description": "A collection of themes: Admin Type (btop style) and Hacker Type (neon/black).",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "your-name",
   "engines": {
     "vscode": "^1.70.0"
