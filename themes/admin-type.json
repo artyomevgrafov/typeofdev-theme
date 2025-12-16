@@ -10,6 +10,8 @@
     "editor.selectionBackground": "#063F3A",
     "editor.findMatchBackground": "#2DD4BF40",
     "editor.findMatchHighlightBackground": "#2DD4BF20",
+    "editorLineNumber.activeForeground": "#2DD4BF",
+    "editorIndentGuide.activeBackground": "#2DD4BF",
     "activityBar.background": "#0B1014",
     "activityBar.foreground": "#2DD4BF",
     "activityBar.activeBorder": "#2DD4BF",

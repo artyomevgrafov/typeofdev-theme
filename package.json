@@ -3,11 +3,17 @@
   "displayName": "TypeOfDev Themes",
   "description": "A collection of themes: Admin Type (btop style) and Hacker Type (neon/black).",
   "version": "1.0.2",
-  "publisher": "your-name",
+  "publisher": "artyomevgrafov",
+  "author": {
+    "name": "Artyom Evgrafov"
+  },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.70.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
